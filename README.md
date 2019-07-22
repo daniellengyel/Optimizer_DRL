@@ -1,4 +1,4 @@
-README
+# Optimizer DRL
 
 For the development and testing of Deep Reinforcement Learning (DRL) methods for HVAC control.
 
