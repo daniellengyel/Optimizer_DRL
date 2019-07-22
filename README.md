@@ -4,7 +4,7 @@ For the development and testing of Deep Reinforcement Learning (DRL) methods for
 
 ## Folder Structure
 
-* Datamanager
+* DataManager
 * Environments
   + Environment
     + Policy_Models
