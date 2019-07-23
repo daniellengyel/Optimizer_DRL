@@ -11,7 +11,7 @@ For the development and testing of Deep Reinforcement Learning (DRL) methods for
 * Optimization_Results
 
 
-#### Datamanager
+#### DataManager
 
 Module to retrieve and cache data necessary for the training and execution of DRL methods.
 The module uses the xbos-service-getter package to retrieve and process data.
